@@ -1,0 +1,1 @@
+In this file I used KMean clustering then converts the 3D pixels row into 2D pixels row then i generate my required colour then i design the function that help me to find the percentage of each color accrding to my cluster such a way i find the percentage of each colour.
